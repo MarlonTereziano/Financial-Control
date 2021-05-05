@@ -1,5 +1,7 @@
+import {Tiao} from "../../components/Summary/style"
+
 export function Summary(){
     return(
-        <h1>Boa Pa nois</h1>
+        <Tiao>Boa Pa nois</Tiao>
     );
 }
