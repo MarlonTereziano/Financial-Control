@@ -26,10 +26,10 @@ export const Content = styled.div `
         
 
 
-        transition: filter 0s;
+        //transition: filter 0s;
 
         &:hover {
-            filter: blur(0.6px);
+            //filter: blur(0.6px);
             filter: brightness(0.9px);
             border: 1px solid;
             border-color: #fff;

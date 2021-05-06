@@ -1,4 +1,4 @@
-import {Container} from "../../components/Summary/style"
+import {Container} from "../../components/Summary/styles"
 import incomeImg from "../../assets/income.svg";
 import outcomeImg from "../../assets/outcome.svg";
 import TotalImg from "../../assets/total.svg";
