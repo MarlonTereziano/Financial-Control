@@ -37,4 +37,19 @@ export const Content = styled.div `
             
         }
     }
+
+    strong {
+        color: #fff;
+        margin-left: -48rem;
+        margin-top: 0rem;
+        display: block;
+        font-size: 2rem;
+        font-weight: 500;
+        line-height: 3rem;
+    }
+        
+
+         
+    
 `;
+
