@@ -27,7 +27,7 @@ export const Container = styled.form`
         }
 
         & + input {
-            margin-top: 1rem;
+            margin-top: 1.1rem;
         }
     }
 
